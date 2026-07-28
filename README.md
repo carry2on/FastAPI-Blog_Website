@@ -256,7 +256,6 @@ This project demonstrates:
 - Likes
 - Pagination
 - Image Upload
-- Cloud Storage
 - Email Verification
 - Docker Support
 - PostgreSQL Deployment
