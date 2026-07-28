@@ -257,11 +257,6 @@ This project demonstrates:
 - Pagination
 - Image Upload
 - Email Verification
-- Docker Support
-- PostgreSQL Deployment
-- Unit Testing
-- CI/CD Pipeline
-
 ---
 
 ## 👨‍💻 Author
